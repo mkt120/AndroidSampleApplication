@@ -21,6 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name="com.mkt120.sampleapplication.startactivity.FirstActivity" />
+        <activity android:name="com.mkt120.sampleapplication.startactivity.NextActivity" />
+        <activity android:name="com.mkt120.sampleapplication.bitmap.BitmapActivity" />
     </application>
 
 </manifest>
